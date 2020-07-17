@@ -4,9 +4,9 @@
   "description": "Learn node js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "index.js"
   },
-  "author": "\u001b[D\tfitrah",
+  "author": "fitrah",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
