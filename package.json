@@ -2,7 +2,7 @@
   "name": "data-selfie-app",
   "version": "1.0.0",
   "description": "Learn node js",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
     "start": "index.js"
   },
