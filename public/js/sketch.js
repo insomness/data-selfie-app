@@ -38,5 +38,5 @@ function setup() {
 
   noCanvas();
   const video = createCapture(VIDEO);
-  video.size(0, 0);
+  video.size(320, 240);
 }
